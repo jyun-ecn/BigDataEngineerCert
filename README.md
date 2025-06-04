@@ -1,2 +1,54 @@
-# BigDataEngineerCert
-Solutions and Practice Projects for the Korean Big Data Engineer Certification Exam
+# 2026 시나공 빅데이터 분석기사 실기 예제 풀이 (Colab 기반)
+
+이 저장소는 **《2026 시나공 빅데이터 분석기사 실기 Python》 (저자: 김태헌)** 교재에 수록된 주요 실습 및 연습문제들을 **Google Colab 환경에서 개인적으로 학습하고 복습하기 위해 구현**한 코드 모음입니다.
+
+## 🧠 목적
+- 빅데이터 분석기사 실기 시험을 준비하며 코드 기반 복습 자료 정리
+- 교재 내 개념을 실제 코드로 구현해보며 이해도 향상
+- 다양한 모델과 전처리 방법을 실험하며 개인적인 실습 역량 강화
+
+---
+
+## 📘 참고 자료 및 저작권
+- 문제 정의 및 데이터 형식은 도서의 내용을 기반으로 합니다.
+- **코드는 책의 설명을 참고해 직접 구현**한 것으로, 모범답안을 그대로 옮긴 것은 아닙니다.
+- 일부 흐름이나 변수 구성은 유사할 수 있으나, 전처리 방식, 모델 선택, 하이퍼파라미터 조정 등은 **개인의 실습 목적에 맞게 재구성**했습니다.
+- 이 저장소는 **학습 및 개인 포트폴리오 공유 목적**으로만 사용되며, **도서 내용의 무단 재배포나 상업적 활용은 금지**됩니다.
+
+---
+
+## ⚙️ 개발 환경
+- Google Colab
+- 사용 주요 라이브러리:
+  - pandas, numpy
+  - matplotlib, seaborn
+  - scikit-learn
+  - lightgbm 등
+
+---
+
+## 🗂️ 폴더 구성 예시
+```
+bigdata-analysis-practice/
+├── README.md
+├── .gitignore
+├── LICENSE
+├── 파이썬기초연습.ipynb
+├── Work_1.ipynb
+├── Pandas 공부.ipynb
+└── Work2/
+    ├── Work_2_Ch.2_머신러닝실습(분류).ipynb
+    ├── Work_2_Ch.3_머신러닝평가지표.ipynb
+    ├── Work_2_Ch.4_머신러닝실습(회귀).ipynb
+    ├── Work_2_Ch.5_머신러닝실습(다중분류).ipynb
+    └── 연습문제(Ch.6~Ch.8)/
+        ├── Work2_이진분류연습문제_환자의당뇨병여부예측.ipynb
+        ├── Work2_이진분류연습문제_이직여부예측.ipynb
+        ├── Work2_이진분류연습문제_신용카드신청자의미래신용예측.ipynb
+        ├── Work2_다중분류연습문제_신용등급예측.ipynb
+        ├── Work2_다중분류연습문제_약물종류예측.ipynb
+        ├── Work2_다중분류연습문제_유리종류예측.ipynb
+        ├── Work2_회귀분석연습문제_노트북가격예측.ipynb
+        ├── Work2_회귀분석연습문제_항공권가격예측.ipynb
+        └── Work3_회귀분석연습문제_중고차가격예측.ipynb
+```
