@@ -29,26 +29,27 @@
 
 ## 🗂️ 폴더 구성 예시
 ```
-bigdata-analysis-practice/
+📁 BigDataEngineerCert/
 ├── README.md
-├── .gitignore
 ├── LICENSE
-├── 파이썬기초연습.ipynb
-├── Work_1.ipynb
-├── Pandas 공부.ipynb
-└── Work2/
-    ├── Work_2_Ch.2_머신러닝실습(분류).ipynb
-    ├── Work_2_Ch.3_머신러닝평가지표.ipynb
-    ├── Work_2_Ch.4_머신러닝실습(회귀).ipynb
-    ├── Work_2_Ch.5_머신러닝실습(다중분류).ipynb
-    └── 연습문제(Ch.6~Ch.8)/
-        ├── Work2_이진분류연습문제_환자의당뇨병여부예측.ipynb
-        ├── Work2_이진분류연습문제_이직여부예측.ipynb
-        ├── Work2_이진분류연습문제_신용카드신청자의미래신용예측.ipynb
-        ├── Work2_다중분류연습문제_신용등급예측.ipynb
-        ├── Work2_다중분류연습문제_약물종류예측.ipynb
-        ├── Work2_다중분류연습문제_유리종류예측.ipynb
-        ├── Work2_회귀분석연습문제_노트북가격예측.ipynb
-        ├── Work2_회귀분석연습문제_항공권가격예측.ipynb
-        └── Work3_회귀분석연습문제_중고차가격예측.ipynb
+├── .gitignore
+└── bigdata-analysis-practice/
+    ├── 파이썬기초연습.ipynb
+    ├── Work_1.ipynb
+    ├── Pandas 공부.ipynb
+    └── Work2/
+        ├── Work_2_Ch.2_머신러닝실습(분류).ipynb
+        ├── Work_2_Ch.3_머신러닝평가지표.ipynb
+        ├── Work_2_Ch.4_머신러닝실습(회귀).ipynb
+        ├── Work_2_Ch.5_머신러닝실습(다중분류).ipynb
+        └── 연습문제(Ch.6~Ch.8)/
+            ├── Work2_이진분류연습문제_환자의당뇨병여부예측.ipynb
+            ├── Work2_이진분류연습문제_이직여부예측.ipynb
+            ├── Work2_이진분류연습문제_신용카드신청자의미래신용예측.ipynb
+            ├── Work2_다중분류연습문제_신용등급예측.ipynb
+            ├── Work2_다중분류연습문제_약물종류예측.ipynb
+            ├── Work2_다중분류연습문제_유리종류예측.ipynb
+            ├── Work2_회귀분석연습문제_노트북가격예측.ipynb
+            ├── Work2_회귀분석연습문제_항공권가격예측.ipynb
+            └── Work3_회귀분석연습문제_중고차가격예측.ipynb
 ```
